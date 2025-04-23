@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'customFont';
+    src: url('../assets/Nope.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+    
+    :root {
+    --vp-sidebar-width: 300px;
+    --vp-font-family-base: "customFont";
+    --vp-font-family-mono: "customFont";
+    --vp-c-brand-1: #fa7f94;
+    --vp-c-brand-2: #fa7f94;
+    }
