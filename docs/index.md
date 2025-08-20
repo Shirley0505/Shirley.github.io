@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "ZeroTwo"
+  name: "Shirley"
   text: "一个小废物的文档"
   tagline: T^T 请耐心观看哦~
   image:
